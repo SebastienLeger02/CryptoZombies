@@ -1,0 +1,24 @@
+{
+  "name": "CryptoZombies",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000r\u0000y\u0000p\u0000t\u0000o\u0000Z\u0000o\u0000m\u0000b\u0000i\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "forge": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastienLeger02/CryptoZombies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastienLeger02/CryptoZombies/issues"
+  },
+  "homepage": "https://github.com/SebastienLeger02/CryptoZombies#readme"
+}
